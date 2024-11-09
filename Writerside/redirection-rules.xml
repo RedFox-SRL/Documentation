@@ -10,4 +10,8 @@
         <description>Created after removal of "User" from Instance Name</description>
         <accepts>User.html</accepts>
     </rule>
+    <rule id="1b0412bb">
+        <description>Created after removal of "RedFox" from Instance Name</description>
+        <accepts>RedFox.html</accepts>
+    </rule>
 </rules>
