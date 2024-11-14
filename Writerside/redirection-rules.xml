@@ -14,4 +14,8 @@
         <description>Created after removal of "RedFox" from Instance Name</description>
         <accepts>RedFox.html</accepts>
     </rule>
+    <rule id="7b39b44c">
+        <description>Created after removal of "Apis Documentación" from Instance Name</description>
+        <accepts>Apis-Documentación.html</accepts>
+    </rule>
 </rules>
