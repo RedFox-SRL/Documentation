@@ -8,7 +8,7 @@
         <header-logo>logo2.png</header-logo>
         <custom-favicons>logo1.png</custom-favicons>
         <link-color>#9333EA</link-color>
-        <download-title>TrackMaster</download-title>
+        <download-title>Visitar TrackMaster</download-title>
         <download-page>https://www.trackmaster.systems/</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
