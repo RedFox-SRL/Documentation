@@ -2,6 +2,7 @@
 
 ## Navegación Docente
 ### SideBar Docente:
+
 <img src="sideBar-docente.png" alt="Alt text" width="200"/>
 
 <procedure title="SideBar" id="navegacion-docente">
@@ -100,10 +101,45 @@
 
 ## **Dashboard Docente**
 
+<img src="DashboardDocente.png" alt="Dashboard Docente" border-effect="line"/>
+
 <procedure title="Configuración" id="rolesGrupo">
 <step>
-    <p>Hacer click en <shortcut>Equipo</shortcut> </p>
-    <img src="rolesEquipo.png" alt="Alt text" border-effect="line"/>
+    <p>Activación/Desactivación de codigo de Ingreso a Gestión</p>
+<p>Hacer click en <shortcut>Configuración</shortcut> </p>
+    <img src="configuraciónDocente.png" alt="Configuración docente" border-effect="line"/>
+</step>
+<step>
+<p>Hacer click en la barra de <shortcut>Codigo de gestión:</shortcut> </p>
+<img src="clickBarraCodigo.png" alt="Barra de Código" border-effect="rounded" width="350"/>
+</step>
+<step>
+<p>Se visualiza el mensaje de Éxito del cambio de estado del codigo de gestión</p>
+<img src="mensajeCodigo-exito.png" alt="Mensaje exito" border-effect="rounded" width="350"/>
+<tabs>
+    <tab title="Habilitado">
+        <img src="Habilitado.png" alt="Codigo Habilitado" border-effect="rounded"/>
+    </tab>
+    <tab title="Deshabilitado">
+        <img src="Desahilitado.png" alt="Codigo Desahilitado" border-effect="rounded"/>
+    </tab>
+</tabs>
+</step>
+
+</procedure>
+<procedure title="Editar Límite de Grupo" id="limiteGrupo">
+<step>
+    <p>Ingresar el nuevo límite de Grupo</p>
+<p>Hacer click en <shortcut>límite de grupo</shortcut> </p>
+    <img src="editLimitGroup.png" alt="Configuración docente" border-effect="rounded" width="350"/>
+</step>
+<step>
+<p>Hacer click en <shortcut>Guardar</shortcut> </p>
+<img src="mensajeExitolimite.png" alt="Barra de Código" border-effect="rounded" width="350"/>
+</step>
+<step>
+<p>Se visualiza el límite de grupo actualizado</p>
+<img src="limiteGrupoActualizado.png" alt="Mensaje exito" border-effect="rounded" width="350"/>
 </step>
 </procedure>
 

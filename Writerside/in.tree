@@ -3,12 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="Documentación"
                  start-page="Manual_de_usuario_TrackMaster.md">
 
-    <toc-element topic="Manual_de_usuario_TrackMaster.md"/>
-    <toc-element topic="Docente.md"/>
-    <toc-element topic="Estudiante.md"/>
-    <toc-element topic="Manual_instalacion.md"/>
-
+    <toc-element topic="Manual_de_usuario_TrackMaster.md">
+        <toc-element topic="Docente.md"/>
+        <toc-element topic="Estudiante.md"/>
+    </toc-element>
 </instance-profile>
