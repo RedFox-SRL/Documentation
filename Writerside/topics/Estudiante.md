@@ -176,10 +176,6 @@
         <p>Se visualiza la creación del Sprint en el <shortcut>Calendario</shortcut> </p>
         <img src="agregarTarea-void.png" alt="Alt text" border-effect="rounded" width="350"/>
         <p><shortcut>Se llenan los espacios</shortcut></p>
-        <p>Título</p>
-        <p>Descripción</p>
-        <p>Asignación de tarea a miembros del grupo</p>
-        <p>Enlaces (Opcional)</p>
     </step>
     <step>
         <p>Hacer click en <shortcut>Agregar Tarea</shortcut> </p>
