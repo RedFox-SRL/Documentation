@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e640571-98c7-4928-b7d4-1f6e6198e90e" name="Changes" comment="add subtopic">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
+    <list default="true" id="8e640571-98c7-4928-b7d4-1f6e6198e90e" name="Changes" comment="fix errors">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configuracion-API-google.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configuracion-spaces-Digital-Ocean.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Instalacion-Sengrid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/in.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/in.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Manual de Instalacion Backend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/backend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Manual_tecnico.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/tecnico.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/backend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/backend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +58,15 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2oXUY4CMFqEqSxjsuOZYPgppjWp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,14 +80,6 @@
     "git-widget-placeholder": "deploy",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "C:/Users/olive/WritersideProjects/Documentation/Writerside/topics/Docente.md",
-      "C:/Users/olive/WritersideProjects/Documentation/Writerside/topics/Estudiante.md",
-      "C:/Users/olive/WritersideProjects/Documentation/Writerside/topics/Manual_de_usuario_TrackMaster.md",
-      "C:/Users/olive/WritersideProjects/Documentation/Writerside/topics/Manual_tecnico.md"
-    ]
   }
 }]]></component>
   <component name="RunManager" selected="Writerside.PDF (in)">
@@ -125,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deploy" />
     <MESSAGE value="add subtopic" />
-    <option name="LAST_COMMIT_MESSAGE" value="add subtopic" />
+    <MESSAGE value="fix errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix errors" />
   </component>
 </project>
