@@ -1,6 +1,6 @@
 # Manual Técnico
 
-## 1. Introduccion
+##  Introduccion
 
 El presente manual técnico tiene como finalidad mencionar los recursos empleados para el
 desarrollo del: SISTEMA DE EVALUACION BASADO EN PROYECTO, Contiene las especificaciones técnicas más importantes del
@@ -9,7 +9,7 @@ Constituye una guía especializada para la realización de las operaciones de ma
 de la aplicación.
 Red Fox S.R.L. son servicios para desarrollar un Sistema de Evaluación Basada en Proyectos
 
-## 2. Resumen del Proyecto
+##  Resumen del Proyecto
 
 Red Fox S.R.L. se complace en presentar la propuesta de servicios para desarrollar un Sistema
 de Evaluación Basada en Proyectos que permitirá a la Empresa TIS gestionar de manera eficiente
@@ -40,7 +40,7 @@ sistema que automatice y estandarice los procesos de evaluación, mejorando la p
 
 ![image_3.png](image_3.png)
 
-## 3. Especificación técnica de requerimientos
+##  Especificación técnica de requerimientos
 
 * Sistema Operativo:​
 *          Windows 10, 11  
@@ -67,7 +67,7 @@ sistema que automatice y estandarice los procesos de evaluación, mejorando la p
 * Repositorio del proyecto:​ .
 *          Github
 
-## 4. Diseño de arquitectura
+##  Diseño de arquitectura
 
 El framework Laravel nos brinda una arquitectura completa para nuestro propósito.
 Laravel propone en el desarrollo usar 'Routes with Closures', en lugar de un MVC (modelo vista
@@ -77,7 +77,7 @@ método o función. Otro concepto que incluye son los middleware que actúan de 
 entre distintos actores, permanecen en medio para facilitar la interacción o comunicación entre
 distintas partes de un sistema.
 
-# 4.1 Cuadro de estructura
+#   1 Cuadro de estructura
 
 El flujo del funcionamiento del Framework es el siguiente
 
