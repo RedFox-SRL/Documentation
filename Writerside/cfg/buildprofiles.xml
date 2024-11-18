@@ -3,7 +3,15 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <primary-color>iris</primary-color>
+        <header-logo>logo2.png</header-logo>
+        <custom-favicons>logo1.png</custom-favicons>
+        <link-color>#9333EA</link-color>
+        <download-title>Visitar TrackMaster</download-title>
+        <download-page>https://www.trackmaster.systems/</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
