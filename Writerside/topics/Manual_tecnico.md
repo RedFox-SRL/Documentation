@@ -74,7 +74,7 @@ El flujo del funcionamiento del Framework es el siguiente
 * Usuario: El usuario realiza su petición al servidor
 * Rutas: Por medio del ruteo se accede al controlador requerido.
 * Controlador: El controlador accede al modelo y la base de datos, el controlador devuelve la vista solicitada.
-* Vistas: La vista se despliega en el navegador del usuario.
+* *Vistas: La vista se despliega en el navegador del usuario.
                            ![image.png](image.png)
 #  4.3 Diagrama de Paquetes
   El diagrama muestra cómo está la relación entre los paquetes de la aplicación, donde se ve
