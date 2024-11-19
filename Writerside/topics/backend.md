@@ -186,6 +186,12 @@ instalar la dependencia de node con el siguiente comando
  *      .env.example  
 al archivo   .env
 *       cd .env.example .env
+configurar
+
+Usa el siguiente comando verificar los tokens
+*         php artisan jwt:secret
+
+   configurar 
 *  4.1  editar el archivo .env  creado
 *  4.2  confifuracion a la base de datos en las siguietes variables
 
