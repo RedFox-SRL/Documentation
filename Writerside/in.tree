@@ -15,7 +15,9 @@
         <toc-element topic="Configuracion-spaces-Digital-Ocean.md"/>
     </toc-element>
     <toc-element topic="frontend.md">
-        <toc-element topic="Configuracion-API-google.md"/>
+        <toc-element topic="Configuracion-API-google.md">
+        </toc-element>
     </toc-element>
     <toc-element topic="tecnico.md"/>
+    <toc-element topic="react-vite.md"/>
 </instance-profile>
