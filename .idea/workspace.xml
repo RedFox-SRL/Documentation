@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e640571-98c7-4928-b7d4-1f6e6198e90e" name="Changes" comment="fix errors">
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 085150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 085218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 085231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 085239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 085501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 091731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 091741.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 091747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 091801.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 091830.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100359.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100359_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100409.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100409_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100448.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/Screenshot 2024-11-24 100508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/in.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/in.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/backend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/backend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/frontend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/frontend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
