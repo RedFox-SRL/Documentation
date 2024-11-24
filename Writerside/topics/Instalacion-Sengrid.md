@@ -22,7 +22,7 @@ Copia la API Key generada para usarla en el proyecto.
 Actualiza el archivo de configuración
 *     config/mail.php
 Laravel toma automáticamente los valores de
-*      .env,
+*      .env
 Verifica en
 *     config/mail.php 
 

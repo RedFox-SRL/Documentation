@@ -1,14 +1,11 @@
 #  Manual de instalacion Redfox-SRL frontend
 ##  tecnologias usadas
-base de Datos
-*     postgresql  version 14 o superior 
   Framework
-*       Laravel 8
+*       Laravel v8 o superior
   lenguaje de progrmacion
-*     ph 8 o superior
-
-
-*     composer 2.4.1
+*       javaScrip  v 
+ entorno de ejecución
+*       node js  v 
 ##  clonar repositorio Redfox-SRL Frontend
 ejecuta el siguiente comando
 *     git clone https://github.com/geovis159/Redfox-SRL-Frontend.git
@@ -18,31 +15,18 @@ Después de clonar el repositorio, navega al directorio del proyecto recién clo
 ##  instalacion Dependencias
 
 *     npm install 
+
 ##  Configuracion de variables  de entorno de proyecto
-hacer una copia
-*      .env.example  
-al archivo   .env
-*       cd .env.example .env
-   1. editar el archivo .env  creado
-   2.  confifuracion a la base de datos en las siguietes variables
+ variable de entorno para la conexion al backend
 
-*         DB_CONNECTION=pgsql
-          DB_HOST=127.0.0.1
-          DB_PORT=5432
-          DB_DATABASE=nombre_base_datos
-          DB_USERNAME=usuario
-          DB_PASSWORD=contraseña
-  3. Generar el AppKey
-*         php artisan  key:generate
+*       REACT_APP_API_BASE_URL=https://trackmaster-ct62m.ondigitalocean.app/api
 
-##  correr migraciones
-para poder generar  las tablas de la base de datos del proyecto  ejecuta con el siguiente comando
-*        php  artisan  migrate 
+  Esta configuración centraliza y facilita las interacciones con el backend.
+
 ##  Correr Proyecto Redfox-SRL
 
-para poder levantar el proyecto
-*        php artisan serve
-una vez hecho estos oasis se tendra backend en servidor local  
+para hacer correr el proyecto
+*        npm run
 
 
 
