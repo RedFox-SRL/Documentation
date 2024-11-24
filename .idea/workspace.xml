@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e640571-98c7-4928-b7d4-1f6e6198e90e" name="Changes" comment="fix errors">
+      <change afterPath="$PROJECT_DIR$/Writerside/images/tis1_dark_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/instalacion-PostgresSQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/instalacion-phpStorm-v8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/intalacion-VisualStudioCode.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/in.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/in.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Instalacion-Sengrid.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Instalacion-Sengrid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/backend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/backend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/frontend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/frontend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +66,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -80,6 +87,7 @@
     "Writerside.Web Archive (in).executor": "Run",
     "git-widget-placeholder": "geovana",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/CHOVIS/imagentis/tis1_dark.png",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
