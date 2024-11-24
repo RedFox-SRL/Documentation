@@ -143,7 +143,7 @@ Herramientas de Control de Versiones:
 Entorno de Desarrollo:
 *         Visual Studio Code
 ---------------------------------------------------------------------------------
-##  Manual de instalacion  backent Redfox-SRL Backend
+##  instalacion  backend Redfox-SRL Backend
 ##   tecnologias usadas
   base de Datos
 *     postgresql  version 14 o superior 
@@ -177,8 +177,8 @@ Usa el siguiente comando verificar los tokens
 *         php artisan jwt:secret
 
    configurar 
-*  4.1  editar el archivo .env  creado
-*  4.2  confifuracion a la base de datos en las siguietes variables
+4.1  editar el archivo .env  creado
+4.2  confifuracion a la base de datos en las siguietes variables
 
 *         DB_CONNECTION=pgsql
           DB_HOST=127.0.0.1
@@ -186,7 +186,7 @@ Usa el siguiente comando verificar los tokens
           DB_DATABASE=nombre_base_datos
           DB_USERNAME=usuario
           DB_PASSWORD=contraseña
-* 4.2 Generar el AppKey 
+4.2 Generar el AppKey 
 *         php artisan  key:generate
 
 ##   correr migraciones 
