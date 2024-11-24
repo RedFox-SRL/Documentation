@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e640571-98c7-4928-b7d4-1f6e6198e90e" name="Changes" comment="fix errors">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/react-vite.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/in.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/in.tree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/backend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/backend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

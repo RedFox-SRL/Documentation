@@ -9,11 +9,11 @@ base de Datos
 
 
 *     composer 2.4.1
-##  clonar repositorio Redfox-SRL Backend
+##  clonar repositorio Redfox-SRL Frontend
 ejecuta el siguiente comando
-*     git clone https://github.com/geovis159/Redfox-SRL-Backend.git
+*     git clone https://github.com/geovis159/Redfox-SRL-Frontend.git
 Después de clonar el repositorio, navega al directorio del proyecto recién clonado
-*     cd Redfox-SRL-Backend
+*     cd Redfox-SRL-Frontend
 
 ##  instalacion Dependencias
 
@@ -23,8 +23,8 @@ hacer una copia
 *      .env.example  
 al archivo   .env
 *       cd .env.example .env
-*  1. editar el archivo .env  creado
-*  2.  confifuracion a la base de datos en las siguietes variables
+   1. editar el archivo .env  creado
+   2.  confifuracion a la base de datos en las siguietes variables
 
 *         DB_CONNECTION=pgsql
           DB_HOST=127.0.0.1
@@ -32,7 +32,7 @@ al archivo   .env
           DB_DATABASE=nombre_base_datos
           DB_USERNAME=usuario
           DB_PASSWORD=contraseña
-* 3. Generar el AppKey
+  3. Generar el AppKey
 *         php artisan  key:generate
 
 ##  correr migraciones
