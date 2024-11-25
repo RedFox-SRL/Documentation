@@ -3,7 +3,7 @@ DigitalOcean Spaces es una solución de almacenamiento de objetos simple y escal
 
 Este manual describe cómo configurar un Space en DigitalOcean para empezar a usarlo en tu proyecto.
 
-#  Crear un Space en DigitalOcean
+## Crear un Space en DigitalOcean
    Paso 1: Inicia sesión en DigitalOcean
    Ve al sitio web de DigitalOcean:
 *       https://www.digitalocean.com.

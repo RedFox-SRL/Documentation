@@ -32,14 +32,15 @@
      Ve a Google Cloud Console.
      Crea un nuevo proyecto o selecciona uno existente.
      Ve a APIs y servicios > Biblioteca y busca "YouTube Data API v3".
-     Haz clic en Habilitar. 
-#  Crear una API Key
+     Haz clic en Habilitar.
+
+## Crear una API Key
      Navega a APIs y servicios > Credenciales.
      Haz clic en Crear credencial > Clave de API.
      Restricción de clave:
      Restringe por direcciones IP
      Permite solo YouTube Data API.
 
-# Configurar la Clave en el Proyecto
+## Configurar la Clave en el Proyecto
    Actualizar el archivo .env:
 *         YOUTUBE_API_KEY=tu_api_key_de_youtube

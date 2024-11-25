@@ -1,6 +1,6 @@
 # visual StudioCode
 ## Descargar e Instalar Visual Studio Code 1.95.3 o superior
-<procedure title="SideBar" id="Instalacion Visual StudioCode">
+<procedure title="SideBar" id="InstalacionVisualStudioCode">
 
   <p> Paso 1 </p>  
  <p>Visita el sitio oficial</p>
