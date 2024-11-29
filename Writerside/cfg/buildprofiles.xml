@@ -16,7 +16,11 @@
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
+            <offline-docs>true</offline-docs>
         </variables>
     </build-profile>
 
+    <footer>
+        <copyright>Red Fox S.R.L.</copyright>
+    </footer>
 </buildprofiles>
