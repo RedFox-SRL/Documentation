@@ -1,3 +1,0 @@
-# Requerimientos tecnicos
-
-Start typing here...

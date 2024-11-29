@@ -1,3 +1,0 @@
-# Objetivos específicos
-
-Start typing here...

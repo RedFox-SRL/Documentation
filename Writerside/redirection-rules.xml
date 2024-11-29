@@ -46,4 +46,8 @@
         <description>Created after removal of "Instalacion de postgresSQL" from Documentación</description>
         <accepts>instalacion-PostgresSQL.html</accepts>
     </rule>
+    <rule id="53de2285">
+        <description>Created after removal of "Componentes principales" from Documentación</description>
+        <accepts>Componentes-principales.html</accepts>
+    </rule>
 </rules>
