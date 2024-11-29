@@ -10,18 +10,32 @@
         <toc-element topic="Docente.md"/>
         <toc-element topic="Estudiante.md"/>
     </toc-element>
-    <toc-element topic="backend.md">
-        <toc-element topic="instalacion-PostgresSQL.md"/>
-        <toc-element topic="intalacion-VisualStudioCode.md">
+    <toc-element topic="tecnico.md">
+        <toc-element topic="Objetivos.md">
+            <toc-element topic="Objetivos-especificos.md"/>
         </toc-element>
-        <toc-element topic="instalacion-phpStorm-v8.md"/>
-        <toc-element topic="Instalacion-Sengrid.md"/>
-        <toc-element topic="Configuracion-spaces-Digital-Ocean.md"/>
-    </toc-element>
-    <toc-element topic="frontend.md">
-        <toc-element topic="react-vite.md"/>
-        <toc-element topic="Configuracion-API-google.md">
+        <toc-element topic="Alcance.md"/>
+        <toc-element topic="Requerimientos-tecnicos.md">
+            <toc-element topic="Requerimientos-minimos-de-software.md"/>
+            <toc-element topic="Requerimientos-minimos-de-hardware.md"/>
         </toc-element>
+        <toc-element topic="Herramientas-utilizadas-en-el-desarrollo.md"/>
+        <toc-element topic="Instalacion.md">
+            <toc-element topic="backend.md">
+                <toc-element topic="instalacion-PostgresSQL.md"/>
+                <toc-element topic="intalacion-VisualStudioCode.md"/>
+                <toc-element topic="instalacion-phpStorm-v8.md"/>
+                <toc-element topic="Instalacion-Sengrid.md"/>
+                <toc-element topic="Configuracion-spaces-Digital-Ocean.md"/>
+            </toc-element>
+            <toc-element topic="frontend.md">
+                <toc-element topic="react-vite.md"/>
+                <toc-element topic="Configuracion-API-google.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element topic="Configuracion.md"/>
+        <toc-element topic="Analisis.md"/>
+        <toc-element topic="Diseño-de-la-arquitectura.md"/>
+        <toc-element topic="Desarrollo.md"/>
     </toc-element>
-    <toc-element topic="tecnico.md"/>
 </instance-profile>

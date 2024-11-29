@@ -1,0 +1,3 @@
+# Requerimientos minimos de hardware
+
+Start typing here...

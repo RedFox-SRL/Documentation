@@ -4,10 +4,11 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>iris</primary-color>
+        <primary-color>purple</primary-color>
         <header-logo>logo2.png</header-logo>
         <custom-favicons>logo1.png</custom-favicons>
-        <link-color>#9333EA</link-color>
+        <link-color>ruby</link-color>
+        <color-preset>vivid</color-preset>
         <download-title>Visitar TrackMaster</download-title>
         <download-page>https://www.trackmaster.systems/</download-page>
         <showDownloadButton>true</showDownloadButton>
