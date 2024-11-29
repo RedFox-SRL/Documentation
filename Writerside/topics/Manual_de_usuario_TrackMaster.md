@@ -1,4 +1,4 @@
-#  Manual de usuario TrackMaster
+# Manual de usuario
 ## Introducción
 **TrackMaster** es una plataforma web desarrollada para el control y la gestión de la materia de Taller de Ingeniería de Software
 en el contexto universitario. Su propósito principal es apoyar a los docentes y tutores en el seguimiento y evaluación de los proyectos

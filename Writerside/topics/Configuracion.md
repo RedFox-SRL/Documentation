@@ -1,3 +1,3 @@
-# Configuracion
+# Configuración
 
 Start typing here...

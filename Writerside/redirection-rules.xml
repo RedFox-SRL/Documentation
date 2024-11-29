@@ -18,4 +18,32 @@
         <description>Created after removal of "Apis Documentación" from Instance Name</description>
         <accepts>Apis-Documentación.html</accepts>
     </rule>
+    <rule id="6c2e65aa">
+        <description>Created after removal of "react+ vite" from Documentación</description>
+        <accepts>react-vite.html</accepts>
+    </rule>
+    <rule id="5841ade3">
+        <description>Created after removal of "Configuracion API google" from Documentación</description>
+        <accepts>Configuracion-API-google.html</accepts>
+    </rule>
+    <rule id="50237257">
+        <description>Created after removal of "Instalacion Sengrid" from Documentación</description>
+        <accepts>Instalacion-Sengrid.html</accepts>
+    </rule>
+    <rule id="11dbca34">
+        <description>Created after removal of "Configuracion spaces Digital Ocean" from Documentación</description>
+        <accepts>Configuracion-spaces-Digital-Ocean.html</accepts>
+    </rule>
+    <rule id="337dc95a">
+        <description>Created after removal of "manual de instalacion phpStorn" from Documentación</description>
+        <accepts>instalacion-phpStorm-v8.html</accepts>
+    </rule>
+    <rule id="617c6565">
+        <description>Created after removal of "visual StudioCode" from Documentación</description>
+        <accepts>intalacion-VisualStudioCode.html</accepts>
+    </rule>
+    <rule id="1a293a55">
+        <description>Created after removal of "Instalacion de postgresSQL" from Documentación</description>
+        <accepts>instalacion-PostgresSQL.html</accepts>
+    </rule>
 </rules>

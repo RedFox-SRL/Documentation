@@ -1,3 +1,3 @@
-# Objetivos especificos
+# Objetivos específicos
 
 Start typing here...
