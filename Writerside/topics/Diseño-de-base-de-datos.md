@@ -1,3 +1,0 @@
-# Diseño de base de datos
-
-Start typing here...

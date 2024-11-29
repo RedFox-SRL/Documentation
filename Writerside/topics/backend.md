@@ -1,3 +1,0 @@
-# Instalación backend
-
-Start typing here...

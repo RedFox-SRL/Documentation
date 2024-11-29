@@ -1,3 +1,0 @@
-# Requerimientos minimos de software
-
-Start typing here...
