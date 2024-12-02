@@ -1,3 +1,0 @@
-# Gestion de sprints
-
-Start typing here...

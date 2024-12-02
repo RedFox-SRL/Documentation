@@ -50,4 +50,204 @@
         <description>Created after removal of "Componentes principales" from Documentación</description>
         <accepts>Componentes-principales.html</accepts>
     </rule>
+    <rule id="2540d7fd">
+        <description>Created after removal of "Diagrama de arquitectura" from Documentación</description>
+        <accepts>Diagrama-de-arquitectura.html</accepts>
+    </rule>
+    <rule id="7e26fc1c">
+        <description>Created after removal of "Componentes principales backend" from Documentación</description>
+        <accepts>Componentes-principales-backend.html</accepts>
+    </rule>
+    <rule id="4ebb6d32">
+        <description>Created after removal of "Arquitectura del sistema" from Documentación</description>
+        <accepts>Arquitectura-del-sistema.html</accepts>
+    </rule>
+    <rule id="1b2d3513">
+        <description>Created after removal of "Backend" from Documentación</description>
+        <accepts>Backend.html</accepts>
+    </rule>
+    <rule id="22366ff">
+        <description>Created after removal of "Tecnologias backend" from Documentación</description>
+        <accepts>Tecnologias-backend.html</accepts>
+    </rule>
+    <rule id="1f7b5a32">
+        <description>Created after removal of "Estructura del proyecto backend" from Documentación</description>
+        <accepts>Estructura-del-proyecto-backend.html</accepts>
+    </rule>
+    <rule id="158e278">
+        <description>Created after removal of "Modelos de datos" from Documentación</description>
+        <accepts>Modelos-de-datos.html</accepts>
+    </rule>
+    <rule id="70b69865">
+        <description>Created after removal of "Controladores" from Documentación</description>
+        <accepts>Controladores.html</accepts>
+    </rule>
+    <rule id="38361df5">
+        <description>Created after removal of "Rutras api" from Documentación</description>
+        <accepts>Rutras-api.html</accepts>
+    </rule>
+    <rule id="5be562e8">
+        <description>Created after removal of "Autenticacion Jwt" from Documentación</description>
+        <accepts>Autenticacion-Jwt.html</accepts>
+    </rule>
+    <rule id="34a9990">
+        <description>Created after removal of "Frontend" from Documentación</description>
+        <accepts>Frontend.html</accepts>
+    </rule>
+    <rule id="50d45da4">
+        <description>Created after removal of "Tecnologias frontend" from Documentación</description>
+        <accepts>Tecnologias-frontend.html</accepts>
+    </rule>
+    <rule id="5a349856">
+        <description>Created after removal of "Estructura del proyecto frontend" from Documentación</description>
+        <accepts>Estructura-del-proyecto-frontend.html</accepts>
+    </rule>
+    <rule id="5c359521">
+        <description>Created after removal of "Componentes principales frontend" from Documentación</description>
+        <accepts>Componentes-principales-frontend.html</accepts>
+    </rule>
+    <rule id="2636e93c">
+        <description>Created after removal of "Intregracion con backend" from Documentación</description>
+        <accepts>Intregracion-con-backend.html</accepts>
+    </rule>
+    <rule id="8e168dc">
+        <description>Created after removal of "Estilos con tailwind" from Documentación</description>
+        <accepts>Estilos-con-tailind.html</accepts>
+    </rule>
+    <rule id="2cb5557b">
+        <description>Created after removal of "Componentes shadcn" from Documentación</description>
+        <accepts>Componentes-shadcn.html</accepts>
+    </rule>
+    <rule id="4cef3781">
+        <description>Created after removal of "Base de datos" from Documentación</description>
+        <accepts>Base-de-datos.html</accepts>
+    </rule>
+    <rule id="d181d64">
+        <description>Created after removal of "Esquema de base de datos" from Documentación</description>
+        <accepts>Esquema-de-base-de-datos.html</accepts>
+    </rule>
+    <rule id="36204813">
+        <description>Created after removal of "Migraciones" from Documentación</description>
+        <accepts>Migraciones.html</accepts>
+    </rule>
+    <rule id="7c92878b">
+        <description>Created after removal of "Configuracion postgres" from Documentación</description>
+        <accepts>Configuracion-postgres.html</accepts>
+    </rule>
+    <rule id="20eacb7d">
+        <description>Created after removal of "Seguridad" from Documentación</description>
+        <accepts>Seguridad.html</accepts>
+    </rule>
+    <rule id="723feb01">
+        <description>Created after removal of "Despliegue" from Documentación</description>
+        <accepts>Despliegue.html</accepts>
+    </rule>
+    <rule id="5c9d5c27">
+        <description>Created after removal of "Configuracion digital ocean" from Documentación</description>
+        <accepts>Configuracion-digital-ocean.html</accepts>
+    </rule>
+    <rule id="251f02a9">
+        <description>Created after removal of "Configuracion spaces" from Documentación</description>
+        <accepts>Configuracion-spaces.html</accepts>
+    </rule>
+    <rule id="2e46393">
+        <description>Created after removal of "Despliegue backend" from Documentación</description>
+        <accepts>Despliegue-backend.html</accepts>
+    </rule>
+    <rule id="2307dd71">
+        <description>Created after removal of "Despliegue frontend vercel" from Documentación</description>
+        <accepts>Despliegue-frontend-vercel.html</accepts>
+    </rule>
+    <rule id="3cf48bd5">
+        <description>Created after removal of "Configuracion cron job" from Documentación</description>
+        <accepts>Configuracion-cron-job.html</accepts>
+    </rule>
+    <rule id="6f5b4c71">
+        <description>Created after removal of "Intregraciones" from Documentación</description>
+        <accepts>Intregraciones.html</accepts>
+    </rule>
+    <rule id="58d63b66">
+        <description>Created after removal of "Intregracion sendgrid" from Documentación</description>
+        <accepts>Intregracion-sendgrid.html</accepts>
+    </rule>
+    <rule id="aa4d610">
+        <description>Created after removal of "Pruebas" from Documentación</description>
+        <accepts>Pruebas.html</accepts>
+    </rule>
+    <rule id="80633fd">
+        <description>Created after removal of "Pruebas manuales" from Documentación</description>
+        <accepts>Pruebas-manuales.html</accepts>
+    </rule>
+    <rule id="4536dcff">
+        <description>Created after removal of "Uso de postman" from Documentación</description>
+        <accepts>Uso-de-postman.html</accepts>
+    </rule>
+    <rule id="6ae7b13c">
+        <description>Created after removal of "Manual tecnico" from Documentación</description>
+        <accepts>Manual-tecnico.html</accepts>
+    </rule>
+    <rule id="76ea2ece">
+        <description>Created after removal of "Glosario" from Documentación</description>
+        <accepts>Glosario.html</accepts>
+    </rule>
+    <rule id="52caa6e9">
+        <description>Created after removal of "Referencias" from Documentación</description>
+        <accepts>Referencias.html</accepts>
+    </rule>
+    <rule id="64ddbebd">
+        <description>Created after removal of "Introduccion usuario" from Documentación</description>
+        <accepts>Introduccion-usuario.html</accepts>
+    </rule>
+    <rule id="24f2d8a4">
+        <description>Created after removal of "Inicio sesion" from Documentación</description>
+        <accepts>Inicio-sesion.html</accepts>
+    </rule>
+    <rule id="3ca9889b">
+        <description>Created after removal of "Panel principal" from Documentación</description>
+        <accepts>Panel-principal.html</accepts>
+    </rule>
+    <rule id="33762eac">
+        <description>Created after removal of "Gestion de sprints" from Documentación</description>
+        <accepts>Gestion-de-sprints.html</accepts>
+    </rule>
+    <rule id="2fd36f97">
+        <description>Created after removal of "Gestion de grupos" from Documentación</description>
+        <accepts>Gestion-de-grupos.html</accepts>
+    </rule>
+    <rule id="387131e6">
+        <description>Created after removal of "Sistema de evaluacion" from Documentación</description>
+        <accepts>Sistema-de-evaluacion.html</accepts>
+    </rule>
+    <rule id="430301be">
+        <description>Created after removal of "Notificaciones" from Documentación</description>
+        <accepts>Notificaciones.html</accepts>
+    </rule>
+    <rule id="48ecf824">
+        <description>Created after removal of "Perfil de usuario" from Documentación</description>
+        <accepts>Perfil-de-usuario.html</accepts>
+    </rule>
+    <rule id="1d98043">
+        <description>Created after removal of "Migraciones" from Documentación</description>
+        <accepts>Migraciones.html</accepts>
+    </rule>
+    <rule id="58094a2c">
+        <description>Created after removal of "Postman pruebas backend configuracion" from Documentación</description>
+        <accepts>Postman-pruebas-backend-configuracion.html</accepts>
+    </rule>
+    <rule id="2b2a20ae">
+        <description>Created after removal of "Configuracion api google" from Documentación</description>
+        <accepts>Configuracion-api-google.html</accepts>
+    </rule>
+    <rule id="4c8ce506">
+        <description>Created after removal of "Docente" from Documentación</description>
+        <accepts>Docente.html</accepts>
+    </rule>
+    <rule id="2d307dbb">
+        <description>Created after removal of "Estudiante" from Documentación</description>
+        <accepts>Estudiante.html</accepts>
+    </rule>
+    <rule id="67246fe6">
+        <description>Created after removal of "Manual de usuario" from Documentación</description>
+        <accepts>Manual_de_usuario_TrackMaster.html</accepts>
+    </rule>
 </rules>

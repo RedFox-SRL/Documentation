@@ -4,63 +4,20 @@
 
 <instance-profile id="in"
                   name="Documentación"
-                  start-page="Manual_de_usuario_TrackMaster.md">
+                  start-page="Introduccion.md">
 
-    <toc-element topic="Manual_de_usuario_TrackMaster.md">
-        <toc-element topic="Docente.md"/>
-        <toc-element topic="Estudiante.md"/>
-        <toc-element topic="Introduccion-usuario.md"/>
-        <toc-element topic="Inicio-sesion.md"/>
-        <toc-element topic="Panel-principal.md"/>
-        <toc-element topic="Gestion-de-grupos.md"/>
-        <toc-element topic="Gestion-de-sprints.md"/>
-        <toc-element topic="Sistema-de-evaluacion.md"/>
-        <toc-element topic="Perfil-de-usuario.md"/>
-        <toc-element topic="Notificaciones.md"/>
+    <toc-element topic="Introduccion.md"/>
+    <toc-element topic="Prerequisitos.md"/>
+    <toc-element topic="Instalacion-backend.md">
+        <toc-element topic="Configuración-env-backend.md">
+            <toc-element topic="Configuración-sendgrid.md"/>
+            <toc-element topic="Configuracion-spaces-digital-ocean.md"/>
+        </toc-element>
+        <toc-element topic="Instalacion-dependencias.md"/>
+        <toc-element topic="Migraciones-y-seeders.md"/>
     </toc-element>
-    <toc-element topic="Manual-tecnico.md">
-        <toc-element topic="Arquitectura-del-sistema.md">
-            <toc-element topic="Diagrama-de-arquitectura.md"/>
-            <toc-element topic="Componentes-principales-backend.md"/>
-        </toc-element>
-        <toc-element topic="Backend.md">
-            <toc-element topic="Tecnologias-backend.md"/>
-            <toc-element topic="Estructura-del-proyecto-backend.md"/>
-            <toc-element topic="Modelos-de-datos.md"/>
-            <toc-element topic="Controladores.md"/>
-            <toc-element topic="Rutras-api.md"/>
-            <toc-element topic="Autenticacion-Jwt.md"/>
-        </toc-element>
-        <toc-element topic="Frontend.md">
-            <toc-element topic="Tecnologias-frontend.md"/>
-            <toc-element topic="Estructura-del-proyecto-frontend.md"/>
-            <toc-element topic="Componentes-principales-frontend.md"/>
-            <toc-element topic="Intregracion-con-backend.md"/>
-            <toc-element topic="Estilos-con-tailind.md"/>
-            <toc-element topic="Componentes-shadcn.md"/>
-        </toc-element>
-        <toc-element topic="Base-de-datos.md">
-            <toc-element topic="Esquema-de-base-de-datos.md"/>
-            <toc-element topic="Migraciones.md"/>
-            <toc-element topic="Configuracion-postgres.md"/>
-        </toc-element>
-        <toc-element topic="Seguridad.md"/>
-        <toc-element topic="Despliegue.md">
-            <toc-element topic="Configuracion-digital-ocean.md"/>
-            <toc-element topic="Configuracion-spaces.md">
-            </toc-element>
-            <toc-element topic="Despliegue-backend.md"/>
-            <toc-element topic="Despliegue-frontend-vercel.md"/>
-            <toc-element topic="Configuracion-cron-job.md"/>
-        </toc-element>
-        <toc-element topic="Intregraciones.md">
-            <toc-element topic="Intregracion-sendgrid.md"/>
-        </toc-element>
-        <toc-element topic="Pruebas.md">
-            <toc-element topic="Pruebas-manuales.md"/>
-            <toc-element topic="Uso-de-postman.md"/>
-        </toc-element>
+    <toc-element topic="Instalacion-frontend.md">
+        <toc-element topic="Configuracion-env-front.md"/>
     </toc-element>
-    <toc-element topic="Glosario.md"/>
-    <toc-element topic="Referencias.md"/>
+    <toc-element topic="Configurar-comunicacion-frontend-backend.md"/>
 </instance-profile>

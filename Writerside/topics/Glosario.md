@@ -1,3 +1,0 @@
-# Glosario
-
-Start typing here...

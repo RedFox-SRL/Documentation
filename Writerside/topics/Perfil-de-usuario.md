@@ -1,3 +1,0 @@
-# Perfil de usuario
-
-Start typing here...

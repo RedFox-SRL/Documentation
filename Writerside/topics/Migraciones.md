@@ -1,3 +1,0 @@
-# Migraciones
-
-Start typing here...
