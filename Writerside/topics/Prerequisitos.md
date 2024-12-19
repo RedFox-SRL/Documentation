@@ -14,6 +14,8 @@ Para poder instalar y ejecutar el proyecto TrackMaster, asegúrate de cumplir co
 | **Node.js**      | N/A            | [Guía de Instalación](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs) (Documentación Oficial)       |
 | **SendGrid**     | N/A            | [Crear Cuenta en SendGrid](https://sendgrid.com/) (Página Oficial)                                                     |
 | **DigitalOcean** | N/A            | [Crear Cuenta en DigitalOcean](https://www.digitalocean.com/) (Página Oficial)                                         |
+| **Postman**      | N/A            | [Descargar Postman](https://www.postman.com/downloads/) (Página Oficial)                                               |
+| **Cron-Job.org** | N/A            | [Crear Cuenta en Cron-Job.org](https://cron-job.org/en/) (Página Oficial)                                              |
 
 ## Requisitos del Sistema
 

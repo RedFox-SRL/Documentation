@@ -57,6 +57,10 @@
                 <td>DB_PASSWORD</td>
                 <td>your_password_here</td>
             </tr>
+            <tr>
+                <td>CRON_SECRET</td>
+                <td>generate_password_here</td>
+            </tr>
         </tbody>
     </table>
 </step>
@@ -73,6 +77,7 @@
         <li><strong>DB_DATABASE</strong>: Nombre de la base de datos (<code>trackmaster</code>).</li>
         <li><strong>DB_USERNAME</strong>: Usuario de la base de datos (<code>postgres</code>).</li>
         <li><strong>DB_PASSWORD</strong>: Contraseña de la base de datos (cambiar según tus credenciales).</li>
+        <li><strong>CRON_SECRET</strong>: Clave secreta para la automatización de tareas (asegúrate de que sea segura y generada por ti).</li>
     </ul>
 </step>
 </procedure>

@@ -15,9 +15,11 @@
         </toc-element>
         <toc-element topic="Instalacion-dependencias.md"/>
         <toc-element topic="Migraciones-y-seeders.md"/>
+        <toc-element topic="Configuración-Postman.md"/>
     </toc-element>
     <toc-element topic="Instalacion-frontend.md">
         <toc-element topic="Configuracion-env-front.md"/>
     </toc-element>
     <toc-element topic="Configurar-comunicacion-frontend-backend.md"/>
+    <toc-element topic="Configuración-cron-job.md"/>
 </instance-profile>

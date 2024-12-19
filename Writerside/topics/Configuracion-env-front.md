@@ -5,7 +5,6 @@
     <p>Para configurar el archivo `.env` en el proyecto frontend, es necesario contar con las siguientes API keys:</p>
     <ul>
         <li><strong>API Key de YouTube v3</strong>: Si no tienes una, puedes obtenerla siguiendo las instrucciones en el siguiente enlace: <a href="https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/api-key-de-youtube/">Obtener API Key de YouTube</a>.</li>
-        <li><strong>API Key de reCAPTCHA v2 Invisible o Badge</strong>: Si no tienes una, puedes obtenerla siguiendo las instrucciones en el siguiente enlace: <a href="https://dinahosting.com/ayuda/como-conseguir-las-claves-de-google-recaptcha/">Obtener API Key de reCAPTCHA</a>.</li>
     </ul>
 </step>
 <step>
@@ -21,10 +20,6 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>VITE_RECAPTCHA_SITE_KEY</td>
-                <td>Clave del sitio para Google reCAPTCHA v2</td>
-            </tr>
             <tr>
                 <td>VITE_YOUTUBE_API_KEY</td>
                 <td>Clave de API para YouTube Data API v3</td>
